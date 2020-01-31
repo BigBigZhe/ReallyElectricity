@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+		"up": "civilizationmod:blocks/banda_up",
+        "down": "civilizationmod:blocks/banda_up",
+        "west": "civilizationmod:blocks/bandacore_side",
+        "north": "civilizationmod:blocks/bandacore_side",
+        "east": "civilizationmod:blocks/bandacore_side",
+        "south": "civilizationmod:blocks/bandacore_side"
+    }
+}
