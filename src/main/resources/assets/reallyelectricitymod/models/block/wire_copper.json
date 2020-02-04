@@ -1,0 +1,21 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "Iup": "reallyelectricitymod:blocks/banda_up",
+        "particle": "reallyelectricitymod:blocks/banda_up"
+    },
+    "elements": [
+        {
+            "from": [7,0,0],
+            "to": [9,2,16],
+            "faces": {
+                "up": {"texture": "#Iup", "cullface": "up"},
+                "down": {"texture": "#Iup", "cullface": "down"},
+                "west": {"texture": "#Iup", "cullface": "west"},
+                "east": {"texture": "#Iup", "cullface": "east"},
+                "north": {"texture": "#Iup", "cullface": "north" },
+                "south": {"texture": "#Iup", "cullface": "south" }
+            }
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+item.blankcircuitboard.name=blankcircuitboard
+
+tile.wire_copper.name=wire_copper
+tile.electronicprocessingstation.name=electronicprocessingstation
+
+itemGroup.TabAll=All
