@@ -17,4 +17,5 @@ public class Wire extends Block {
     public boolean isOpaqueCube(IBlockState state) {
         return false;
     }
+
 }

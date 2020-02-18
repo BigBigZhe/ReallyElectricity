@@ -28,9 +28,15 @@ public class RegistryHandler {
 	@SubscribeEvent
     public static void onModelRegister(ModelRegistryEvent event) {
 		for(Item item:ItemsLoader.ITEMS.toArray(new Item[0])) {
-        ModelLoader.setCustomModelResourceLocation(item, 0, new ModelResourceLocation(item.getRegistryName(), "inventory"));
+        	ModelLoader.setCustomModelResourceLocation(item, 0, new ModelResourceLocation(item.getRegistryName(), "inventory"));
+
+        	if (item == ItemsLoader.BLANK_CIRCUIT_BOARD){
+				for (int i = 0; i < 10; i++){
+					ModelLoader.setCustomModelResourceLocation(item, i, new ModelResourceLocation(item.getRegistryName() + "" + i, "inventory"));
+				}
+			}
+
 		}
-		
 	}
 	
 }

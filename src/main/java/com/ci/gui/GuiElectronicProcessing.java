@@ -42,8 +42,7 @@ public class GuiElectronicProcessing extends GuiContainer{
 	}
 
 	@Override
-    protected void actionPerformed(GuiButton button) throws IOException
-    {
+    protected void actionPerformed(GuiButton button) throws IOException {
 		super.actionPerformed(button);
 		ItemStack itemStack = tile.getStackInSlot(0);
 		Item item = itemStack.getItem();

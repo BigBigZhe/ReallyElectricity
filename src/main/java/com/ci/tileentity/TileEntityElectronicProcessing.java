@@ -1,7 +1,5 @@
 package com.ci.tileentity;
 
-import com.ci.api.math.MathForCalculation;
-import com.ci.items.BlankCircuitBoard;
 import com.ci.loader.ItemsLoader;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.entity.player.EntityPlayerMP;
