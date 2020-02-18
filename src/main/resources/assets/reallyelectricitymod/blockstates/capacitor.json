@@ -1,0 +1,7 @@
+{
+    "variants": {
+		"facing=0": {"model":"reallyelectricitymod:capacitor"},
+		"facing=1": {"model":"reallyelectricitymod:capacitor", "y": 90 },
+		"facing=2": {"model":"reallyelectricitymod:capacitor", "x": 90 }
+	}
+}

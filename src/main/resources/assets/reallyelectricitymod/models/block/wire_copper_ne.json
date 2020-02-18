@@ -1,0 +1,58 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "Copper": "reallyelectricitymod:blocks/copper_wire",
+		"particle": "reallyelectricitymod:blocks/copper_wire"
+    },
+    "elements": [
+        {
+            "from": [6,6,6],
+            "to": [16,10,10],
+            "faces": {
+                "up": {
+                    "texture": "#Copper"
+                },
+                "down": {
+                    "texture": "#Copper"
+                },
+                "west": {
+                    "texture": "#Copper"
+                },
+                "east": {
+                    "texture": "#Copper"
+                },
+                "north": {
+                    "texture": "#Copper"
+                },
+                "south": {
+                    "texture": "#Copper"
+                }
+            }
+        },
+        {
+            "from": [6,6,0],
+            "to": [10,10,6],
+            "faces": {
+                "up": {
+                    "texture": "#Copper"
+                },
+                "down": {
+                    "texture": "#Copper"
+                },
+                "west": {
+                    "texture": "#Copper"
+                },
+                "east": {
+                    "texture": "#Copper"
+                },
+                "north": {
+                    "texture": "#Copper"
+                },
+                "south": {
+                    "texture": "#Copper"
+                }
+            }
+        }
+    ]
+}

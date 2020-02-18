@@ -1,0 +1,7 @@
+{
+    "variants": {
+		"facing=0": {"model":"reallyelectricitymod:resistance"},
+		"facing=1": {"model":"reallyelectricitymod:resistance", "y": 90 },
+		"facing=2": {"model":"reallyelectricitymod:resistance", "x": 90 }
+	}
+}

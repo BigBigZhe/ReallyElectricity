@@ -1,0 +1,10 @@
+{
+    "variants": {
+		"facing=0": {"model":"reallyelectricitymod:power"},
+		"facing=1": {"model":"reallyelectricitymod:power", "y": 180 },
+		"facing=2": {"model":"reallyelectricitymod:power", "y": 270 },
+		"facing=3": {"model":"reallyelectricitymod:power", "y": 90 },
+		"facing=4": {"model":"reallyelectricitymod:power", "y": 90 , "x": 270 },
+		"facing=5": {"model":"reallyelectricitymod:power", "y": 90 , "x": 90 }
+	}
+}

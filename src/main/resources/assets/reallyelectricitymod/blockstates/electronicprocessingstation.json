@@ -1,0 +1,8 @@
+{
+    "variants": {
+		"facing=north": {"model":"reallyelectricitymod:electronicprocessingstation"},
+		"facing=south": {"model":"reallyelectricitymod:electronicprocessingstation"},
+		"facing=east": {"model":"reallyelectricitymod:electronicprocessingstation"},
+		"facing=west": {"model":"reallyelectricitymod:electronicprocessingstation"}
+	}
+}

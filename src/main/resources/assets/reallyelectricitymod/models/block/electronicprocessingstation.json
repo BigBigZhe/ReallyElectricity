@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+		"up": "reallyelectricitymod:blocks/banda_up",
+        "down": "reallyelectricitymod:blocks/banda_up",
+        "west": "reallyelectricitymod:blocks/bandacore_side",
+        "north": "reallyelectricitymod:blocks/bandacore_side",
+        "east": "reallyelectricitymod:blocks/bandacore_side",
+        "south": "reallyelectricitymod:blocks/bandacore_side",
+		"particle": "reallyelectricitymod:blocks/banda_up"
+    }
+}

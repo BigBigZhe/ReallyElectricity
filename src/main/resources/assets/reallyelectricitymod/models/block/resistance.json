@@ -1,0 +1,36 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "Link": "reallyelectricitymod:blocks/link",
+		"particle": "reallyelectricitymod:blocks/link"
+    },
+    "elements": [
+        {
+            "from": [6,6,0],
+            "to": [10,10,16],
+            "faces": {
+                "up": {
+                    "texture": "#Link"
+                },
+                "down": {
+                    "texture": "#Link"
+                },
+                "west": {
+                    "texture": "#Link"
+                },
+                "east": {
+                    "texture": "#Link"
+                },
+                "north": {
+                    "uv": [2,10,6,14],
+                    "texture": "#Link"
+                },
+                "south": {
+                    "uv": [2,10,6,14],
+                    "texture": "#Link"
+                }
+            }
+        }
+    ]
+}

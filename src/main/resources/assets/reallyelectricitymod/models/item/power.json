@@ -1,5 +1,5 @@
 {
-    "parent": "reallyelectricitymod:block/wire_copper_none",
+    "parent": "reallyelectricitymod:block/power",
     "display": {
         "thirdperson": {
             "rotation": [ 10, -45, 170 ],

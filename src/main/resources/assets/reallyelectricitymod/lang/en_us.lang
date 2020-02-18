@@ -2,5 +2,10 @@ item.blankcircuitboard.name=blankcircuitboard
 
 tile.wire_copper.name=wire_copper
 tile.electronicprocessingstation.name=electronicprocessingstation
+tile.resistance10.name=resistance
+tile.resistance20.name=resistance
+tile.power.name=power
+tile.capacitor.name=capacitor
+tile.diode.name=diode
 
 itemGroup.TabAll=All
